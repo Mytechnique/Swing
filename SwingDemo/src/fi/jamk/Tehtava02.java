@@ -16,6 +16,7 @@ public class Tehtava02 extends javax.swing.JFrame {
      * Creates new form Tehtava02
      */
     public Tehtava02() {
+        super("AutoLaskuri");
         initComponents();
     }
    
